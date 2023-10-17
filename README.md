@@ -16,4 +16,7 @@ Alan's journey exemplifies a commitment to leveraging technology for advancement
 
 Through Leading Knowledge, Alan helps clients with data and AI-focused strategic consulting engagements, executive-level strategic presentations of AI solutions, and conference keynotes.
 
-He can be found at: alan@leadingknowledge.com | https://x.com/alanwunsche | https://Linkedin.com/in/alanwunsche
+Contact info: alan@leadingknowledge.com | https://x.com/alanwunsche | https://Linkedin.com/in/alanwunsche
+
+## Let's Chat!
+https://cal.com/alanwunsche
