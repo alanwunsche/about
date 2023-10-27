@@ -6,7 +6,7 @@ Alan is currently researching and writing about the exponential impacts of AI ag
 
 With a rich and diverse business background, Alan has been at the forefront of technological evolutions. In high school he coded in [assembly language](https://github.com/darcymason/wedge-64)
 
-In the initial stages of his 30 year career, he earned a BSc(Chemistry), an Ivey Business School MBA and became a Chartered Accountant. With a passion for applying technology, he spearheaded Knowledge Management globally at PwC's management consulting practice. He became known as a process reengineering and organizational change expert, having implemented ERP and Business Intelligence systems and designed future state organizations that melded process, people and technological change, and led "Future of Finance - Best Practices and Benchmarking" initiatives.
+In the initial stages of his 30 year career, he earned a BSc(Chemistry), an Ivey Business School MBA and became a Chartered Accountant (CPA, CA). With a passion for applying technology, he spearheaded Knowledge Management globally at PwC's management consulting practice. He became known as a process reengineering and organizational change expert, having implemented ERP and Business Intelligence systems and designed future state organizations that melded process, people and technological change, and led "Future of Finance - Best Practices and Benchmarking" initiatives.
 
 Following his passion for technology, Alan co-founded and exited BraindBid, a 'dotcom' HR recruiting solution, and subsequently helped SaaS startups grow at the Exceler@Tor University of Toronto's Innovations Foundation, which ultimately became Toronto's MaRS Discovery District, one of Canada's leading tech hubs.
 
