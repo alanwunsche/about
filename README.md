@@ -2,7 +2,7 @@
 
 Alan Wunsche serves as the CEO of Leading Knowledge Labs (https://leadingknowledge.com), an AI research and consulting firm centered around the innovative applications of AI and cloud-based data technologies, particularly in reshaping the future of enterprise processes.
 
-Alan is currently researching and writing about the exponential impacts of AI agents on the future of work and society in a book titled "Agentware". Chapters are being previewed for comments at: [http://agentware.ai](http://agentware.ai) 
+Alan is currently researching and writing about the exponential impacts of AI agents on the future of work and society in a book titled "AGENTWARE". The accompanying Substack is at: [https://agentware.ai](https://agentware.ai) 
 
 With a rich and diverse business background, Alan has been at the forefront of technological evolutions. In high school he coded in [assembly language](https://github.com/darcymason/wedge-64)
 
